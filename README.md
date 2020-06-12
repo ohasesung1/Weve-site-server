@@ -1,3 +1,5 @@
+<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/v0/svg-twitter/1f91d.svg" width-30 height=30/>
+
 ## P.M.S는 대회, 공모전, 해커톤 등을 함께 참가 할 수 있도록 팀빌딩 및 개발자간에 QnA 기능을 제공하는 서비스 입니다.
 
 팀: Weve
